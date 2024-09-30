@@ -6,6 +6,12 @@ const users = [
     email: "user@atlasmail.com",
     password: "123456",
   },
+  {
+    id: "410544b2-4001-4271-9855-fec4b6a00303",
+    name: "Lee",
+    email: "lee.west@atlasschool.com",
+    password: "654321",
+  },
 ];
 
 const topics = [
